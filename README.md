@@ -7,7 +7,7 @@ This program does the following conversions:
 3. Kilometers to miles
 4. Miles to kilometers
 
-******************* program algorithm****************************
+******************* program algorithm****************************\n
 First, the user is asked to enter the character to select the type of conversion, one wants to perform.
 
 -After entering the valid character, the program execution starts.
